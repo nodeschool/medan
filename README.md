@@ -1,2 +1,2 @@
-# medan
-repo for organizing the medan nodeschools
+# Medan NodeSchools
+Website for organizing the medan nodeschools
